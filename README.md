@@ -7,4 +7,4 @@ Backstretch fullscreen & mobile friendly slideshow with CSS3 controllers and nex
 Credits
 =============================================
 
-Backstretch: https://github.com/srobbin/jquery-backstretch
+srobbin: https://github.com/srobbin/jquery-backstretch
