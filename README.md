@@ -5,9 +5,9 @@ Backstretch fullscreen & mobile friendly slideshow with CSS3 controllers and nex
 
 
 - [x] CSS3 Transitions
-- [x] Image animations and transitions
+- [x] Images CSS3 transitions & animations
 - [ ] Fix controllers bugs
-- [ ] Q/A Tests
+- [ ] Q/A - Test
 
 Credits
 =============================================
